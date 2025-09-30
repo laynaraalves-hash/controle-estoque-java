@@ -44,6 +44,6 @@ A documentação do projeto inclui:
 
 ## 👩‍💻 Autora
 
-**Laynara**  
+**Laynara Marcelle de Moura Alves - RA: 25002223**  
 Curso Técnico em Desenvolvimento de Sistemas – E-TEC/UNIFEOB  
 Aguaí, SP – Brasil
